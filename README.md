@@ -8,10 +8,10 @@
 팀원들과 함께 공부한 내용을 서로 공유하고 여러 각도로 글을 해석하여 넓은 시야를 유도함
 
 ## Members
-정유석/@yuseok0215\
-우경찬/@kyeoungchan\
-유선준/@SeonJuuuun\
-이혜인/@hil679
+정유석/yuseok0215\
+우경찬/kyeoungchan\
+유선준/SeonJuuuun\
+이혜인/hil679
 
 ## 진행 방식
 1. 스터디 진도에 맞게 책을 읽고 각자 맡은 파트에 대해 궁금증이나 중요한 포인트를 issue로 생성한다.
